@@ -11,5 +11,5 @@ Javascript framework : Knockout
 Layout is handled via Bootstrap
 
 # To Run:
-download the repo's, open index.html in any browser of your choice.
+download the repo, open index.html in any browser of your choice.
 
